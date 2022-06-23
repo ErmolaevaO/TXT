@@ -1,0 +1,5 @@
+id: 1 
+summary: Incorrect application dialog name 
+description: the wrong App name is displayed in the upper left corner of the running app 
+severity: Major 
+priority: High 
